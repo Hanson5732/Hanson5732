@@ -22,7 +22,7 @@
 
 ### Education Excperience
 
-<img src="https://www.mpu.edu.mo/assets/images/common/logo-macaopoly.svg" width="200px"><p align="middle">**Bachelor's degree in Computer Science**</p> <p align="right">**2022 - 2026**</p>
+<img src="https://www.mpu.edu.mo/assets/images/common/logo-macaopoly.svg" width="200px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bachelor's degree in Computer Science**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2022 - 2026**
 
 
 
