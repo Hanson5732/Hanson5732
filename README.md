@@ -12,6 +12,8 @@
 
 
 
+### My Contributions
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanson5732)](https://git.io/streak-stats)
 
 
@@ -22,7 +24,7 @@
 
 ### Education Excperience
 
-**2022-2026**		**Bachelor's degree in Computer Science**			<img src="https://www.mpu.edu.mo/assets/images/common/logo-macaopoly.svg" width="200px">
+<img src="https://www.mpu.edu.mo/assets/images/common/logo-macaopoly.svg" width="200px">		**2022-2026**		**Bachelor's degree in Computer Science**
 
 
 
