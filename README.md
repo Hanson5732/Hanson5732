@@ -12,12 +12,11 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanson5732)](https://git.io/streak-stats)
+<!--[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hanson5732&custom_title=Hanson%27s%20Github%20Stats&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Hanson5732&custom_title=Hanson%27s%20Github%20Stats&include_all_commits=true)-->
 
 
 
-[![Hanson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanson5732&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-stats-extended)&nbsp;[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Hanson5732)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Hanson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanson5732&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-stats-extended)&nbsp;[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Hanson5732&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=Hanson5732&langs_count=4)-->
 
 
 ### Education Excperience
